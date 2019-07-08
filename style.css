@@ -13,3 +13,15 @@ html-list{
 body{
 	background-color: beige;
 }
+
+img{
+	border-radius: 33%;
+}
+
+li{
+	color: crimson;
+}
+
+p{
+	color: teal;
+}
